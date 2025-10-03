@@ -2,7 +2,7 @@
 
 Güvenli şifre yöneticisi uygulaması. Bu uygulama, şifrelerinizi cihazınıza özel benzersiz kimlik ile SHA-256 şifreleme kullanarak maksimum güvenlikle saklar.
 bu proje tübitak desteği ile kapadokya üniversitesinde yapılmıştır
-creenshot lara screenshots clasöründen ulaşabilirsiniz
+screenshot lara screenshots clasöründen ulaşabilirsiniz
 
 ## 🔐 Güvenlik Özellikleri
 
